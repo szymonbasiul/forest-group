@@ -1,0 +1,6 @@
+Robots welcome!
+
+User-agent: *
+Allow: /
+Disallow:
+Sitemap: *uzupełnij
